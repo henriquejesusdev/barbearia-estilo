@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.hero-banner {
+  background-image: url('../img/hero-banner.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.section-padding {
+  padding: 80px 0;
+}
+.bg-dark-custom {
+  background-color: #212529;
+}
+.carousel-item p {
+  font-size: 1.1rem;
+  color: #333;
+}
